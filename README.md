@@ -6,7 +6,7 @@
 
 boop
 
-Thanks for checking out todo tracker!
+Thanks for checking out TODO Tracker! We appreciate you!
 
 //TODO Merge this to automatically create a TODO on TODO Tracker
 
